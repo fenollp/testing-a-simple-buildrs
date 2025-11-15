@@ -1,0 +1,10 @@
+[package]
+# authors.workspace = true
+# categories.workspace = true
+description = "A test crate that has a simple build.rs"
+edition = "2024"
+# keywords.workspace = true
+# license.workspace = true
+name = "testing-a-simple-buildrs"
+# repository.workspace = true
+# version.workspace = true
