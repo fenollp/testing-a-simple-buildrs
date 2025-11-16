@@ -8,3 +8,5 @@ edition = "2024"
 name = "testing-a-simple-buildrs"
 # repository.workspace = true
 # version.workspace = true
+
+[workspace]
